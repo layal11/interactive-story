@@ -26,6 +26,6 @@ President: Then of course yes!
 
 ## Chapter 4:
 WELL, THIS IS BUSINESS!
-Son married Bill Gates’ daughter a got a great fortune.
+Son married Bill Gates’ daughter and got a great fortune.
 
 
