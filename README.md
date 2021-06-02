@@ -1,19 +1,31 @@
 # interactive-story
 
 ## Intro:
-Irina is a bright young lady who has just completed her high school education. She wishes to make an important decision in her life by deciding which major to study at university.
+Dad wants his son to earn a great fortune. Dad is astute and has his own method of accomplishing his goals.
 
 ## Chapter 1:
-She is torn between her own choice of computer science and her father's choice of dentist.
+Dad: I want you to marry  a girl of my choice.
+Son: Of course not!
+(Dad said to himself: I’m going to make him an offer he can’t refuse.)
+Dad: What if the girl is Bill Gates’ daughter.
+Son: Then okay!
 
 ## Chapter 2:
-If she decides to pursue a career as a dentist, as her father desires, she has option to either find a job not related to dentistry or she will rise against her father and follow her passion (computer science). 
+#### Dad goes to Bill Gates
+Dad: I want your daughter to marry my son
+Bill Gates: NOOOO!
+Dad: My son is the CEO of the world bank.
+Bill Gates: Okay!
 
 ## Chapter 3:
-If she decides to study computer science, as she desires, she has an option to either  pursue a Masters degree or to find a job directly after graduation.
+#### Dad goes to the president of the world bank
+Dad: Appoint my son as CEO
+President:  NOOOO!
+Dad: He is the son-in-law of  Bill Gates.
+President: Then of course yes!
 
 ## Chapter 4:
-if Irina goes through her father’s path, she will either find a job not related to dentistry or face and take a decision to make another major.
+WELL, THIS IS BUSINESS!
+Son married Bill Gates’ daughter a got a great fortune.
 
-## Chapter 5:
-if she chose her father’s road, she will realize then that she would have dedicated five years of her life to a subject she despises (dislike).Whereas, if she chose her way and follow her passion she will succeed and achieve her dreams.
+
